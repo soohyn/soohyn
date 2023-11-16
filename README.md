@@ -1,11 +1,11 @@
 
-### Soohyeon Jo 🌱
+## Soohyeon Jo 🌱
 
 ```
 Hi i'm junior frontend developer Soohyeon Jo
 ```
 
-#### Tech Stack 💻
+### Tech Stack 💻
 
 <div>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black&" />
