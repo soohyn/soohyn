@@ -1,5 +1,5 @@
 
-## Soohyeon Jo 🌱
+## Soohyn 🌱
 
 ```
 Hi i'm junior frontend developer Soohyeon Jo
